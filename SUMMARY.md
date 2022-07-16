@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Test Page](README.md)
-* [Page 2](page-2.md)
+* [Intro](README.md)
+
+## Swift
+
+* [데이터 타입](<swift/데이터 타입.md>)
